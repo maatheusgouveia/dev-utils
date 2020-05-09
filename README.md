@@ -56,7 +56,9 @@ Exibe o nome da última pessoa a editar a linha atual, bem como a data da altera
 
 ### Todo Tree
 
-Basta adicionar `TODO: Uma breve descrição da tarefa aqui`, e todas as tarefas criadas desta forma serão exibidas na barra lateral clicando no ícone da extensão
+Basta adicionar um comentário no seguinte formato: `// TODO: Uma breve descrição da tarefa aqui`
+
+Todas as tarefas criadas desta forma serão exibidas na barra lateral clicando no ícone da extensão
 
 ### Live share
 
