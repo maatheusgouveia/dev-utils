@@ -1,6 +1,6 @@
 # dev-utils
 
-## Ferramentas para customização e melhoria de produtividade no seu ambiente de desenvolvimento
+Ferramentas para customização e melhoria de produtividade no seu ambiente de desenvolvimento
 
 ## Extensões do navegador
 
@@ -64,6 +64,12 @@ Todas as tarefas criadas desta forma serão exibidas na barra lateral clicando n
 
 Compartilhamento de código em tempo real, basta fazer login e compartilhar o link da sessão
 
+### Color Highlight
+
+Extensão que mostra um preview das cores no seu código
+
+Repositório: https://github.com/egonyans/vscode-ext-color-highlight
+
 ---
 
 ## Customização do Visual Studio Code
@@ -102,3 +108,6 @@ PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w$(parse_git_branch)\$ '
 fi
 unset color_prompt force_color_prompt
 ```
+
+Depois você vai precisar reiniciar o computador, encerrar sua sessão ou recarregar o arquivo de configurações do terminal
+source ~/.bashrc
