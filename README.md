@@ -70,6 +70,12 @@ Extensão que mostra um preview das cores no seu código
 
 Repositório: https://github.com/egonyans/vscode-ext-color-highlight
 
+### REST Client
+
+Extensão que possibilita efetuar requisições rest dentro do vscode
+
+Repositório: https://github.com/Huachao/vscode-restclient
+
 ---
 
 ## Customização do Visual Studio Code
